@@ -1,1 +1,1 @@
-#Vision-Language-Action Model to control a Robot
+##Vision-Language-Action Model for generalized Robot Control
